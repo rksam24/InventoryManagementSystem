@@ -27,11 +27,12 @@ This application maintain and manage-
 
 - User can see how many order a customer made and total cost those order
 
-# How to download and run the software
-
-Minimum Requirements:
+# Minimum Requirements:
 - JDK or JRE version 16
-- MySQL            
+- MySQL
+
+# How to download and run the software
+          
 
 1. Download and unzip the ZIP folder: InventoryManagement.zip
 2. Then extract the ZIP file
