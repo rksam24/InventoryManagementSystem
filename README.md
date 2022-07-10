@@ -40,6 +40,8 @@ This application maintain and manage-
 4. Default credentials for the connection to MySQL database is:
 - Username: root
 - Password: root
+
+
 Incase your database uses a different username and password to connect
 change the userName and password in ConnectionFactory.java file
 
